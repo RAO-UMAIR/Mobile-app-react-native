@@ -39,7 +39,7 @@ export default function App() {
           style={styles.textarea}
           multiline={true}
           numberOfLines={5}
-          placeholder="Write your message..."
+          placeholder="Write your message Please..."
           value={value}
           onChangeText={(val) => setValue(val)}
         />
