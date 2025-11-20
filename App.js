@@ -46,7 +46,7 @@ export default function App() {
         <TextInput
           style={styles.input}
           maxLength={6} //
-          placeholder="Type here..."
+          placeholder="Type heresjakjaskjkasj..."
         />
         <Image
           source={require("./assets/favicon.png")}
